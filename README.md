@@ -51,6 +51,8 @@ if Recency <= 30 and Frequency >= 10 and Monetary >= 500:
 elif Recency <= 60 and Frequency >= 8:
     return "Loyal Customers"
 ...
+
+
 📸 Dashboard Preview
 ![image](https://github.com/user-attachments/assets/90f93973-4f4e-4935-8e21-df7971b6ae9d)
 
