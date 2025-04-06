@@ -1,5 +1,7 @@
 🛍️ E-commerce RFM Segmentation Project
-📊 Overview
+
+
+📊 Overview : 
 This project performs RFM (Recency, Frequency, Monetary) analysis on e-commerce customer data to segment users into meaningful categories like:
 
 Champions
